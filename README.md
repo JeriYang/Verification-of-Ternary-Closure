@@ -1,5 +1,5 @@
 ### 三元闭包的大数据验证(Big data verification of ternary closure)
-Related Paper:[Empirical Analysis of an evolving social network, Science 2006]()<br>
+dowland Related Paper:[Empirical Analysis of an evolving social network, Science 2006](https://github.com/JeriYang/Verification-of-Ternary-Closure/raw/master/Empirical%20Analysis%20of%20an%20evolving%20social%20network.pdf)<br>
 (1) Converting the qualitative description of the ternary closure into an expression of quantitative investigation;<br>
 (2) Find the appropriate social network data verification ternary closure principle, you can use the mail tense data of a European research group, [download address](http://snap.stanford.edu/data/email-Eu-core-temporal.html)<br>
 (3) Write an algorithm to achieve the following functions:<br>
